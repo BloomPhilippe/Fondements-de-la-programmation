@@ -2,7 +2,7 @@
 
 À la base, j'ai retranscrit la formation vidéo afin de mieux mémoriser l'ensemble (chacun sa technique).
 
-Ensuite, j'y ai ajouté ma touche personnel, certains commentaires, des liens vers de la documentation pertinente, des schémas, etc...
+Ensuite, j'y ai ajouté ma touche personnelle, certains commentaires, des liens vers de la documentation pertinente, des schémas, etc...
 
 [Lien vers source vidéo](https://www.linkedin.com/learning/les-fondements-de-la-programmation)
 
